@@ -1,9 +1,9 @@
 # Web_Chat_App_WebRTC_v2
  
-Dependencias
+Dependencies
 - npm init
 - npm i socket.io
 - npm i save-dev nodemon
 
-Rodar servidor
+Run Server
 - node server.js
