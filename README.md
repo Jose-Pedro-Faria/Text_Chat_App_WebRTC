@@ -1,4 +1,4 @@
-# Web_Chat_App_WebRTC_v2
+# Text_Chat_App_WebRTC
  
 Dependencies
 - npm init
